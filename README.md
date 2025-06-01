@@ -1,8 +1,8 @@
-# parallel-encoder
-
-A command-line run-length encoder in C that concatenates one or more files and outputs a compressed binary stream to STDOUT. I learned and gained the skills to complete this project from my operating systems course.
+# Parallel Encoder
 
 ## Objective
+
+A command-line run-length encoder in C that concatenates one or more files and outputs a compressed binary stream to STDOUT. I learned and gained the skills to complete this project from my operating systems course.
 
 Reinforce multithreaded-style design (Milestone 2), POSIX threading concepts, and core C skills—file I/O, mutex/condition synchronization, and data encoding—while building a high-performance RLE compressor.
 
